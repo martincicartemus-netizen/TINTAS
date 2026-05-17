@@ -1,0 +1,50 @@
+CATEGORIA;REFERENCIA;MARCA;COR;Tipo (Base, Layer, Shade, Contrast);Acabamento (Fosco, Acetinado, Brilhante, Metálico)
+Mediums;15810;Acrilex;Betume da Judeia;Envelhecedor / Efeito;Líquido
+Mediums;502;Acrilex;Azul Cobalto;Verniz Vitral;Transparente / Brilhante
+Mediums;540;Acrilex;Violeta Cobalto;Verniz Vitral;Transparente / Brilhante
+Mediums;507;Acrilex;Vermelho Fogo;Verniz Vitral;Transparente / Brilhante
+Mediums;---;Acrilex;Medium Acrílico;Auxiliar de Pintura;Líquido
+Mediums;---;Corfix;Medium Retardador;Retardador de Secagem;Líquido
+Mediums;---;Corfix;Pátina Reagente Azul;Efeito Envelhecido/Oxidação;Líquido
+Mediums;---;Própria;Martincic (50% Água + 40% Medium + 10% Retardador);Diluente Caseiro (Homebrew);Líquido / Mistura
+Solventes;---;---;Aguarrás Mineral (Mineral Spirits);Solvente / Diluente;Líquido
+Solventes;---;Veja;Limpa Vidrex Cristal;Higienizador / Limpador;Líquido
+Tintas;531;Acrilex;Marrom;Nankin;Líquido
+Tintas;511;Acrilex;Verde Bandeira;Nankin;Líquido
+Tintas;510;Acrilex;Verde Folha;Acrílica;Pote
+Tintas;577;Acrilex;Turquesa;Acrílica;Pote
+Tintas;508;Acrilex;Vermelho Escarlate;Acrílica;Pote
+Tintas;802;Acrilex;Verde Maçã;Acrílica;Pote
+Tintas;101;Acrilex;Verde Neon;Acrílica Neon;Pote (Fluorescente)
+Tintas;102;Acrilex;Amarelo Limão Neon;Acrílica Neon;Pote (Fluorescente)
+Tintas;---;Acrilex;Preto;Nankin;Líquido
+Tintas;501;Acrilex;Azul Turquesa;Acrílica;Pote
+Tintas;536;Acrilex;Amarelo Cádmio;Acrílica;Pote
+Tintas;532;Acrilex;Ouro;Acrílica Metálica;Metálico / Pote
+Tintas;506;Acrilex;Cerâmica;Acrílica;Pote
+Tintas;579;Acrilex;Azul Hortência;Acrílica;Pote
+Tintas;541;Acrilex;Vermelho Vivo;Acrílica;Pote
+Tintas;533;Acrilex;Prata;Acrílica Metálica;Metálico / Pote
+Tintas;513;Acrilex;Verde Musgo;Acrílica;Pote
+Tintas;826;Acrilex;Cereja;Acrílica;Pote
+Tintas;550;Acrilex;Púrpura;Acrílica;Pote
+Tintas;507;Acrilex;Vermelho Fogo;Nankin;Líquido
+Tintas;507;Acrilex;Vermelho Fogo;Acrílica;Pote
+Tintas;562;Acrilex;Branco Metálico;Acrílica Metálica;Metálico / Pote
+Tintas;548;Acrilex;Ouro Velho;Acrílica Metálica;Metálico / Pote
+Tintas;531;Acrilex;Marrom;Acrílica;Pote
+Tintas;582;Acrilex;Verde Grama;Acrílica;Pote
+Tintas;551;Acrilex;Sépia;Acrílica;Pote
+Tintas;517;Acrilex;Laranja;Acrílica;Pote
+Tintas;520;Acrilex;Preto;Acrílica;Pote
+Tintas;564;Acrilex;Amarelo Ocre;Acrílica;Pote
+Tintas;516;Acrilex;Violeta;Acrílica;Pote
+Tintas;545;Acrilex;Verde Oliva;Acrílica;Pote
+Tintas;332;Acrilex;Verde Permanente (Acrylic Colors);Acrílica em Tubo;Tubo
+Tintas;325;Acrilex;Laranja Cádmio (Acrylic Colors);Acrílica em Tubo;Tubo
+Tintas;357;Acrilex;Terra Siena Queimada (Acrylic Colors);Acrílica em Tubo;Tubo
+Tintas;320;Acrilex;Preto (Classic);Óleo em Tubo;Tubo
+Tintas;321;Acrilex;Violeta Cobalto (Classic);Óleo em Tubo;Tubo
+Tintas;357;Acrilex;Terra Siena Queimada (Classic);Óleo em Tubo;Tubo
+Tintas;246;Corfix;Ouro Velho (Goldfix);Pasta Metálica;Metálico / Pasta
+Tintas;MT-34;SilverBright;Ouro Nobre;Acrílica;Metálico / Pote
